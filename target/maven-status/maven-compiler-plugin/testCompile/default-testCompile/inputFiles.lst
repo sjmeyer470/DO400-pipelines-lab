@@ -1,0 +1,5 @@
+/home/student/DO400/pipelines-lab/src/test/java/com/redhat/shopping/unit/catalog/CatalogServiceTest.java
+/home/student/DO400/pipelines-lab/src/test/java/com/redhat/shopping/integration/whitebox/ShoppingCartTest.java
+/home/student/DO400/pipelines-lab/src/test/java/com/redhat/shopping/unit/cart/CartServiceTest.java
+/home/student/DO400/pipelines-lab/src/test/java/com/redhat/shopping/integration/blackbox/ShoppingCartTest.java
+/home/student/DO400/pipelines-lab/src/test/java/com/redhat/shopping/unit/ProductMother.java

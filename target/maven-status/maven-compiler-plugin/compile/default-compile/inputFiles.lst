@@ -1,0 +1,12 @@
+/home/student/DO400/pipelines-lab/src/main/java/com/redhat/shopping/cart/AddToCartCommand.java
+/home/student/DO400/pipelines-lab/src/main/java/com/redhat/shopping/ShoppingCartResource.java
+/home/student/DO400/pipelines-lab/src/main/java/com/redhat/shopping/cart/CartService.java
+/home/student/DO400/pipelines-lab/src/main/java/com/redhat/shopping/catalog/Product.java
+/home/student/DO400/pipelines-lab/src/main/java/com/redhat/shopping/cart/CartItem.java
+/home/student/DO400/pipelines-lab/src/main/java/com/redhat/shopping/catalog/persistence/InMemoryCatalogStorage.java
+/home/student/DO400/pipelines-lab/src/main/java/com/redhat/shopping/catalog/CatalogService.java
+/home/student/DO400/pipelines-lab/src/main/java/com/redhat/shopping/catalog/CatalogStorage.java
+/home/student/DO400/pipelines-lab/src/main/java/com/redhat/shopping/cart/CartView.java
+/home/student/DO400/pipelines-lab/src/main/java/com/redhat/shopping/cart/ProductNotInCartException.java
+/home/student/DO400/pipelines-lab/src/main/java/com/redhat/shopping/catalog/Catalog.java
+/home/student/DO400/pipelines-lab/src/main/java/com/redhat/shopping/catalog/ProductNotFoundInCatalogException.java
